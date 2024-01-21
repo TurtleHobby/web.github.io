@@ -1,0 +1,26 @@
+li {
+    color: #12a3b2;
+}
+
+.interactif {
+    color: #bcf413;
+}
+
+html {
+    background-color: beige;
+}
+
+body {
+    width : 600px;
+    margin: 0 auto;
+    background-color: rgb(191, 93, 233);
+    padding: 20px 20px 100px 200px;
+    border: 2px #441206;
+}
+
+img {
+    display: block;
+    max-width: 1000px;
+    height: auto;
+    border-radius: 5%;
+}

@@ -11,7 +11,8 @@ html {
 }
 
 body {
-    width : 600px;
+    width : 400px;
+    height: auto;
     margin: 0 auto;
     background-color: rgb(191, 93, 233);
     padding: 20px 20px 100px 200px;
